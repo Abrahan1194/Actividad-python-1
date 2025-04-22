@@ -6,5 +6,6 @@ while True:
     print ("Numero es mayor")
    elif numero_usuario < numero:
     print ("Numero es menor")
-   elif numero_usuario == numero:
+  else numero_usuario == numero:
     print("numero es igual")
+  break
